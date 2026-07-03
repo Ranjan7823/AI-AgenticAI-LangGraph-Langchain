@@ -24,3 +24,7 @@ from langgraph.graph import StateGraph
 --
 1_bmi_workflow 
 <img width="1901" height="1015" alt="image" src="https://github.com/user-attachments/assets/861d1024-9724-4790-888f-498707ae8a4d" />
+
+
+ADDED ANother Node fro BMI Lable workflow 
+<img width="225" height="455" alt="image" src="https://github.com/user-attachments/assets/634d52f5-0857-45d2-8c00-b41d0a387a4a" />
